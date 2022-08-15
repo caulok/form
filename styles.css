@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#titleForm {
+    text-align: center;
+}
+
+#form {
+    margin: 2em auto;
+}
+
+#formulario{
+    margin: 2em;
+}
+
+.form-floating{
+    margin-bottom: 1em;
+}
+
+.form-select {
+    padding: 1em!important;
+    margin-bottom: 1em;
+}
+
+#btnSuscribirme {
+    width: 100%;
+    background-color: #1c1c1c;
+    transition: all 0.5s;
+}
+
+#btnSuscribirme:hover {
+    background-color: #363333;
+}
